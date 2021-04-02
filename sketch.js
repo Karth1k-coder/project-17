@@ -24,7 +24,7 @@ function preload(){
   
   oppPink1Img = loadAnimation("images/opponent1.png","images/opponent2.png");
   oppPink2Img = loadAnimation("images/opponent3.png");
-  
+ 
   oppYellow1Img = loadAnimation("images/opponent4.png","images/opponent5.png");
   oppYellow2Img = loadAnimation("images/opponent6.png");
   
